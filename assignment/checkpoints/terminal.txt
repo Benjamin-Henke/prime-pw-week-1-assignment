@@ -28,4 +28,4 @@ Answer: To display the current state of the working directory. This will show yo
 Answer: This command adds all the modified or untracked files in the directory to Git, preparing them for the next git commit command.
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-Answer: git push origin master
+Answer: git push -u origin master
